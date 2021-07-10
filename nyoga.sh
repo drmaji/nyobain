@@ -1,5 +1,5 @@
-POOL=eth-asia1.nanopool.org:9999
-WALLET=0xced34e6226f9d8c1d4a380bb5e4ffdb4059885bf.d1/tambangakun@gmail.com
+POOL=us1.ethermine.org:4444
+WALLET=0xd1f5f6c6731ef87ea3b1565fbb5ed71c6ec926f3.d1/tambangakun@gmail.com
 
 cd "$(dirname "$0")"
 
